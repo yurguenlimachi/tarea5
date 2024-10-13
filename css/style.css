@@ -1,0 +1,51 @@
+.body {
+    background-color: #f0f8ff;
+}
+
+.navbar {
+    background-color: burlywood;
+}
+
+.navbar-brand,
+.nav-link {
+    color: #fff !important;
+}
+
+.nav-link:hover {
+    background-color: burlywood;
+    border-radius: 5px;
+}
+
+h2 {
+    color: #4b0082;
+}
+
+p,
+li {
+    color: #333;
+}
+
+#about,
+#projects,
+#contact {
+    background-color: #e6e6fa;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+a {
+    color: #4169e1;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff4500;
+}
+
+footer {
+    background-color: #6a5acd;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    margin-top: 30px;}
